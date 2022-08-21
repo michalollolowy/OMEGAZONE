@@ -1,6 +1,6 @@
 body
 {
-	background-color:#101010;
+	background-color:#404040;
 	font-family: 'Roboto', sans-serif;
 }
 #container
@@ -23,7 +23,7 @@ body
 }
 #menu
 {
-	background-color:#202020; //#303030//
+	background-color:#202020; \\#303030\\
 	color:#ffffff;
 	margin-top:20px;
 	padding:10px;
