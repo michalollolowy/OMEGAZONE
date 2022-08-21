@@ -1,11 +1,11 @@
 body
 {
-	background-color:#404040;
+	background-color:#202020;
 	font-family: 'Roboto', sans-serif;
 }
 #container
 {
-	width:1000px;
+	width:1038px;
 	margin-left:auto;
 	margin-right:auto;
 	height:auto;
@@ -23,7 +23,7 @@ body
 }
 #menu
 {
-	background-color:#303030;
+	background-color:#009999;
 	color:#ffffff;
 	margin-top:20px;
 	padding:10px;
@@ -68,7 +68,8 @@ body
 	background-color:lightgray;
 	text-align:center;
 	font-size:18px;
-	border-right:2px dotted #666666
+	border-radius:20px;
+	margin-right: 40px;
 }
 #content
 {
@@ -79,6 +80,7 @@ body
 	min-height:580px;
 	text-align:justify;
 	margin-bottom:15px;
+	border-radius:20px;
 }
 #footer
 {
@@ -98,12 +100,12 @@ body
 	height:25px;
 	font-size:18px;
 	padding:10px;
-	border-right:2px dotted #444444;
+	border-right:2px dotted #127272;
 	opacity:0.8;
 }
 .option:hover
 {
-	background-color:#000000;
+	background-color:#127272;
 	cursor:pointer;
 }
 .option2
@@ -117,7 +119,7 @@ body
 }
 .option2:hover
 {
-	background-color:#000000;
+	background-color:#127272;
 	cursor:pointer;
 }
 .optionL
