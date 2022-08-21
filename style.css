@@ -70,7 +70,9 @@ body
 	background-color:lightgray;
 	text-align:center;
 	font-size:18px;
-	border-right:2px dotted #666666
+	border-right:2px dotted #666666;
+	border-radius:20px;
+	margin-right: 20px;
 }
 #content
 {
