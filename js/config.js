@@ -85,7 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-{ogg: src="songs/HOME_-_Resonance.ogg", name: "HOME - Resonance"},
+{ogg: "songs/HOME_-_Resonance.ogg", name: "HOME - Resonance"},
 ];
 
 /*Random music order?*/
