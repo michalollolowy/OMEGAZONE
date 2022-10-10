@@ -93,7 +93,7 @@ var l_musicRandom = true;
 
 /*Music volume14:19 21.08.2022
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 100;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
