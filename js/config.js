@@ -89,7 +89,7 @@ var l_musicPlaylist = [
 ];
 
 /*Random music order?*/
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 /*Music volume14:19 21.08.2022
 Choose a value between 0 and 100*/
