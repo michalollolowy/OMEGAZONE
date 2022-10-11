@@ -101,8 +101,9 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Witamy na OmegaZone",
-"Dobrej Zabawy!",
-"Dziekujemy ze jestes",
+"Miłej Gry!",
+"Staramy się, aby serwer był jeszczelepszy",
+"Niestety serwer jeszcze nie jest do końca skończony"
 ];
 
 /*Random message order?*/
