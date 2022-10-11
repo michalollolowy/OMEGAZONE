@@ -100,7 +100,6 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Niestety serwer jeszcze nie jest do końca skończony",
 "Witamy na OmegaZone",
 "Miłej Gry!",
 "Staramy się, aby serwer był jeszczelepszy",
